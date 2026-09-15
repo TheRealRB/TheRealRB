@@ -89,6 +89,6 @@ Throughout my enterprise infrastructure career, I've led environments that:
 
 ## 📫 Connect
 
-**LinkedIn:** [Ryan Bear](YOUR-LINKEDIN-URL)
+**LinkedIn:** [Ryan Bear](https://www.linkedin.com/in/ryan-bear-inc/)
 
 **GitHub:** [TheRealRB](https://github.com/TheRealRB)
