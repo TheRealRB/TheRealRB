@@ -71,8 +71,6 @@ Modular Azure Infrastructure-as-Code project demonstrating reusable Terraform mo
 - ITIL v3 Foundation
 - Six Sigma White Belt
 
-Currently expanding Azure architecture expertise through **AZ-305: Designing Microsoft Azure Infrastructure Solutions**.
-
 ---
 
 ## 🏗️ Enterprise Infrastructure Background
