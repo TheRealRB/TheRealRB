@@ -61,6 +61,7 @@ Modular Azure Infrastructure-as-Code project demonstrating reusable Terraform mo
 
 ## 🎓 Certifications
 
+- Microsoft Certified: Azure Solutions Architect Expert (AZ-305)
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
 - Microsoft Certified: Azure AI Engineer Associate (AI-102)
 - Microsoft Certified: Azure AI Fundamentals (AI-900)
